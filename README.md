@@ -1,18 +1,16 @@
-### **Hello there, I'm Wilson Martinez 👋**
+# **Hola a todos, soy Wilson Martínez 👋**
 
-## About Me
-I am passionate about programming, especially with Python, although I also have experience with other languages. Thanks to my background as an electronic engineer, I can program anything from complete applications to microchips, combining hardware and software to create innovative solutions.
+Soy un apasionado de la programación, especialmente con Python, aunque también tengo experiencia en otros lenguajes. Gracias a mi formación como ingeniero electrónico, puedo programar desde aplicaciones completas hasta microchips, combinando hardware y software para crear soluciones innovadoras.
 
-I enjoy continuous learning and working on projects that present a challenge.
+Me gusta mantenerme en constante aprendizaje y trabajar en proyectos que representen un desafío.
 
-In addition to my technical skills, I love literature, music, and great movies.
-
-In my profile, you will find projects with an innovative and functional approach. I hope you find something interesting and useful here!
-
-Feel free to explore my repositories and reach out if you'd like to collaborate!
-
-## Check my page
-Link to the sample section: [https://mypage-wfm.onrender.com](#sample-section).
+Además de mis habilidades técnicas, disfruto de la literatura, de la musica y de las buenas peliculas.
 
 
+En mi perfil encontrarás proyectos con un enfoque innovador y funcional. ¡Espero que encuentres algo interesante y útil aquí!
+
+¡Explora mis repositorios y no dudes en ponerte en contacto conmigo si quieres colaborar!
+
+## Te invito a mi pagina:
+[https://mypage-wfm.onrender.com](#sample-section).
 
