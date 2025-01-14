@@ -1,4 +1,4 @@
-# **Hola a todos, soy Wilson Martínez 👋**
+# **Hola a todos, me llamo Wilson Felipe Martínez 👋**
 
 Soy un apasionado de la programación, especialmente con Python, aunque también tengo experiencia en otros lenguajes. Gracias a mi formación como ingeniero electrónico, puedo programar desde aplicaciones completas hasta microchips, combinando hardware y software para crear soluciones innovadoras.
 
