@@ -13,4 +13,4 @@ En mi perfil encontrarás proyectos con un enfoque innovador y funcional. ¡Espe
 # Si estas aburrido te invito a mi pagina:
 Aqui tengo reseñas de los libros que he leido, historias, entrevistas y más...
 
-[https://mypage-wfm.onrender.com](#sample-section).
+[https://mypage-wfm.onrender.com](#sample-section)
