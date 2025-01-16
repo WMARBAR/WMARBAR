@@ -10,7 +10,3 @@ Además de mis habilidades técnicas, disfruto de la literatura, de la musica y 
 En mi perfil encontrarás proyectos con un enfoque innovador y funcional. ¡Espero que encuentres algo interesante y útil aquí!
 
 ¡Explora mis repositorios y no dudes en ponerte en contacto conmigo si quieres colaborar!
-# Si estas aburrido te invito a mi pagina:
-Aqui tengo reseñas de los libros que he leido, historias, entrevistas y más...
-
-[https://mypage-wfm.onrender.com](#sample-section)
